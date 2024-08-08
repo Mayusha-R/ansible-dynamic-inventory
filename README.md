@@ -1,7 +1,3 @@
-Sure, here's the README based on the provided milestones:
-
----
-
 # Ansible Project for AWS Deployment
 
 ## Overview
@@ -102,3 +98,10 @@ This project involves setting up a development environment using AWS EC2 and Ans
 **Deliverables:**
 - Ansible playbook for web application deployment.
 - Successfully deployed web application on the EC2 instance.
+
+
+Output:
+
+![alt text](image.png)
+
+![alt text](image-1.png)

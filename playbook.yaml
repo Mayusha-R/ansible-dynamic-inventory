@@ -1,18 +1,18 @@
 ---
 - name: Daploying Database
-  hosts: database
+  hosts: all
   become: yes
   roles:
     - database
 
 - name: Deploying Backend
-  hosts: backend
+  hosts: all
   become: yes
   roles:
     - backend
 
 - name: Dploying Frontend
-  hosts: frontend
+  hosts: all
   become: yes
   roles:
     - frontend
